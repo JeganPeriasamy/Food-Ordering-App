@@ -19,9 +19,7 @@
 - Users can add foods to their shopping cart for future purchase.
 - For secure transactions, the platform implements a checkout process integrated with payment gateways such as Stripe 
 
-## Demo
-
-Demo URL: https://foodfront.netlify.app
+## Demo URL: https://foodfront.netlify.app
 
 ![Food delivery](https://github.com/JeganPeriasamy/Food-Ordering-App-Front-end/assets/166896131/45b79081-d9c3-4c4c-961c-75448f5a9cf8)
 
