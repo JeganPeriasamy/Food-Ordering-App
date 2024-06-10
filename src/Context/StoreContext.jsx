@@ -6,7 +6,7 @@ const StoreContextProvider = (props) => {
 
 
             const[cartItems,setCartItems] = useState({})
-            const url = "https://food-ordering-app-backend-1-hnpj.onrender.com/"
+            const url = import.meta.env.VITE_APP_BACKEND_URL
             const [token,setToken]  = useState("")
 
 
